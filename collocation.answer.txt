@@ -1,0 +1,1 @@
+Info about the code for Collocations - The executions time taken by collocation code to get collocation is very high so I have run the code for first 1000 words on Google Collab and for 100 words on terminal. I have checked the chi_square and PMI values for bigrams my code is running properly only problem is to optimize it to run with lesser time. 
